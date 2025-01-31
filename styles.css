@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-image: url("bg.jpg"); /* Use your preferred background image */
+   
     background-size: cover;
     background-position: center;
     display: flex;
